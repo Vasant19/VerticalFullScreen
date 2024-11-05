@@ -1,5 +1,5 @@
 # 📺 Vertical Fullscreen YouTube Video Hack
-I made this for myself to watch YouTube in vertical fullscreen while multitasking or code editing, but figured it might help others too! I was struggling to find a solution for this, so I created a quick fix and am uploading it in case anyone else might find it useful too. This simple HTML file lets you keep a video front and center while you work (or pretend to)😁. 
+I made this for myself to watch YouTube in vertical fullscreen while multitasking or code editing, but figured it might help others too! I was struggling to find a solution for this, so I created a quick fix and am uploading it in case anyone else might find it useful too. This simple HTML file lets you keep a video front and center while you watch tutorial videos,work(or pretend to)😁. 
 
 🖼️ Before and After
 Here’s how the layout looks in action:
