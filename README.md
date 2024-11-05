@@ -10,6 +10,7 @@ No matter which techniques or extensions you use—like picture-in-picture or th
 
 ## After:
 By integrating the video ID into the HTML file and opening it, you can easily and quickly view the video in vertical full screen.
+https://github.com/user-attachments/assets/f0fbffe2-876e-412a-ad0f-6518e32d6d9a
 
 
 # 🚀 How to Use
@@ -50,3 +51,7 @@ Keeps video controls within easy reach.
 
 🎉 Enjoy!
 Just open the HTML file in your browser, and you’re all set for smooth, vertical YouTube playback. Enjoy and happy multitasking!
+
+# Disclaimer 
+
+The video displayed is only used as an example. I do not own any rights to the video.
