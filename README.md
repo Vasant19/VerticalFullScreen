@@ -13,7 +13,7 @@ By integrating the video ID into the HTML file and opening it, you can easily an
 https://github.com/user-attachments/assets/f0fbffe2-876e-412a-ad0f-6518e32d6d9a
 
 
-# 🚀 How to Use
+### 🚀 How to Use
 Download or clone this repo.
 ```python
 git clone https://github.com/Vasant19/VerticalFullScreen.git
@@ -21,7 +21,7 @@ cd VerticalFullScreen
 ```
 Open the index.html file in any text editor or code editor.
 
-# ✏️ Swap in Your Own Video
+### ✏️ Swap in Your Own Video
 To use your own YouTube video, just update this part of the HTML:
 by Replacing **YOUR_VIDEO_ID_HERE**
 ```html
@@ -43,15 +43,15 @@ So, replace YOUR_VIDEO_ID_HERE with this video ID to embed it in the HTML:
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/KLuTLF3x9sA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ```
 
-# 📐 What This Does
+### 📐 What This Does
 This HTML file:
 
 Makes your video fill the screen vertically, perfect for a multi-window view.
 Keeps video controls within easy reach.
 
-🎉 Enjoy!
+### 🎉 Enjoy!
 Just open the HTML file in your browser, and you’re all set for smooth, vertical YouTube playback. Enjoy and happy multitasking!
 
-# Disclaimer 
+### Disclaimer 
 
 The video displayed is only used as an example. I do not own any rights to the video.
